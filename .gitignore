@@ -1,2 +1,5 @@
 # Virtual environment
 knn_env/
+
+venv/
+knn_workshop.db
